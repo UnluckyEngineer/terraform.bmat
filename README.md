@@ -8,7 +8,7 @@ I have also included an additional solution in this same Terraform, which allows
 
 SQS is highly-available and scalable in nature, is supported by Celery as well and already provides some metrics that could be used to handle scaling rather than depending on a custom metric.
 
-More details on how to deploy this alternative solution can be found in the **Alternative Solution** section.
+More details on how to deploy this alternative solution can be found in the [**Alternative Solution**](#alternative-solution) section.
 
 ## Architecture diagram
 
